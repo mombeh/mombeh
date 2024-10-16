@@ -15,3 +15,7 @@ button {
 .cta:hover { 
     background-color: blue;
 }
+
+.btn{
+    background-color: black;
+}
