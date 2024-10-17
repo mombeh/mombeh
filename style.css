@@ -1,5 +1,25 @@
-button{
+.action{ 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+
+button {
     width: 124px;
     height: 40px;
+    background-color: black;
+    color: white;
+}
+
+.cta:hover { 
     background-color: blue;
+}
+
+.btn{
+    background-color: black;
+}
+
+.nda{
+    background-color: brown;
 }
