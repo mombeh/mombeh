@@ -16,10 +16,20 @@ button {
     background-color: blue;
 }
 
+.span{
+    background-color: black;
+    color:green;
+}
+form{
+    background-color: brown;
+    
+=======
+
 .btn{
     background-color: black;
 }
 
 .nda{
     background-color: brown;
+
 }
