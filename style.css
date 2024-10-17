@@ -1,12 +1,35 @@
-button{
+.action{ 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+
+button {
     width: 124px;
     height: 40px;
+    background-color: black;
+    color: white;
+}
+
+.cta:hover { 
     background-color: blue;
 }
+
 .span{
     background-color: black;
+    color:green;
 }
 form{
     background-color: brown;
     
+=======
+
+.btn{
+    background-color: black;
+}
+
+.nda{
+    background-color: brown;
+
 }
