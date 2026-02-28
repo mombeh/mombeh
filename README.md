@@ -79,9 +79,7 @@ I am currently open to:
 
 ##  Contact Me
 
- Email: your-email@example.com  
- LinkedIn: your-linkedin-url  
- Portfolio: (if available)
+ Email: nkwenuinadine31@gmail.com  
 
 ---
 
