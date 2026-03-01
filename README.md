@@ -16,11 +16,14 @@ I specialize in designing RESTful APIs, implementing authentication systems, and
 - REST APIs
 - JWT Authentication
 - WebSockets (Socket.IO)
+- Laravel PHP
 
 ### Frontend
 - React
 - Next.js
 - TypeScript
+- JavaScript
+- Vue.js
 
 ### Tools & DevOps
 - Git & GitHub
@@ -31,31 +34,19 @@ I specialize in designing RESTful APIs, implementing authentication systems, and
 
 ---
 
-##  Featured Projects
+🔹 Food Recipe App
 
-###  Appointment Booking API
-Scalable REST API with JWT authentication, PostgreSQL, real-time updates, and double-booking prevention logic.
+An interactive web application that allows users to browse, search, and explore recipes with dynamic UI updates.
 
-**Tech:** Node.js, Express, PostgreSQL, Socket.IO  
- https://github.com/mombeh/booking-api
+Tech: JavaScript, HTML, CSS
+🔗 https://github.com/mombeh/food-recipe
 
----
+🔹 Quiz Game
 
-###  237Circulo – Waste Management Platform
-Backend system designed to improve waste collection coordination and management.
+Interactive browser-based quiz game with scoring logic and dynamic question handling.
 
-**Tech:** TypeScript, Node.js  
- https://github.com/mombeh/237circulo
-
----
-
-###  Reselio – Business Management System
-Web-based system for managing small reseller operations, products, and business workflows.
-
-**Tech:** TypeScript, Full-Stack Architecture  
- https://github.com/mombeh/reselio
-
----
+Tech: JavaScript
+🔗 https://github.com/mombeh/quiz-game
 
 ##  What I Focus On
 
@@ -80,7 +71,3 @@ I am currently open to:
 ##  Contact Me
 
  Email: nkwenuinadine31@gmail.com  
-
----
-
-> “I build backend systems that solve real problems — not just CRUD apps.”
