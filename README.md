@@ -34,19 +34,27 @@ I specialize in designing RESTful APIs, implementing authentication systems, and
 
 ---
 
-🔹 Food Recipe App
+### Food Recipe App
 
 An interactive web application that allows users to browse, search, and explore recipes with dynamic UI updates.
 
 Tech: JavaScript, HTML, CSS
-🔗 https://github.com/mombeh/food-recipe
+ https://github.com/mombeh/food-recipe
 
-🔹 Quiz Game
+### Quiz Game
 
 Interactive browser-based quiz game with scoring logic and dynamic question handling.
 
 Tech: JavaScript
-🔗 https://github.com/mombeh/quiz-game
+ https://github.com/mombeh/quiz-game
+
+###  Reselio – Business Management System
+
+Web-based system for managing small reseller operations, products, and business workflows.
+
+**Tech:** TypeScript, Full-Stack Architecture  
+ https://github.com/mombeh/reselio
+
 
 ##  What I Focus On
 
