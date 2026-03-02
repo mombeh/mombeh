@@ -1,81 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there <br><br>##  Backend & Full-Stack Developer  <br>Building scalable APIs, real-time systems, and structured backend architectures.<br><br>I specialize in designing RESTful APIs, implementing authentication systems, and building backend foundations for service-based platforms and startups.<br><br>---<br><br>##  Tech Stack<br><br>### Backend<br>- Node.js<br>- Express<br>- PostgreSQL<br>- REST APIs<br>- JWT Authentication<br>- WebSockets (Socket.IO)<br>- Laravel PHP<br><br>### Frontend<br>- React<br>- Next.js<br>- TypeScript<br>- JavaScript<br>- Vue.js<br><br>### Tools & DevOps<br>- Git & GitHub<br>- Insomnia<br>- Docker (Learning)<br>- Render / Vercel Deployment<br><br>---<br><br>### Food Recipe App<br><br>An interactive web application that allows users to browse, search, and explore recipes with dynamic UI updates.<br><br>Tech: JavaScript, HTML, CSS<br> https://github.com/mombeh/food-recipe<br><br>### Quiz Game<br><br>Interactive browser-based quiz game with scoring logic and dynamic question handling.<br><br>Tech: JavaScript<br> https://github.com/mombeh/quiz-game-challenge<br><br>###  Reselio – Business Management System<br><br>Web-based system for managing small reseller operations, products, and business workflows.<br><br>**Tech:** TypeScript, Full-Stack Architecture  <br> https://github.com/mombeh/reselio<br><br><br>##  What I Focus On<br><br>- Designing scalable backend systems  <br>- Writing clean, maintainable architecture  <br>- Authentication & role-based access control  <br>- Solving real-world workflow problems  <br><br>---<br><br>##  Open To Work<br><br>I am currently open to:<br>- Remote backend developer roles  <br>- Full-stack startup opportunities  <br>- Internship and junior developer positions   <br><br>---<br><br>##  Contact Me<br><br> Email: nkwenuinadine31@gmail.com  <br><br>## Location<br><br>Yaounde, Cameroon<br>
 
-##  Backend & Full-Stack Developer  
-Building scalable APIs, real-time systems, and structured backend architectures.
 
-I specialize in designing RESTful APIs, implementing authentication systems, and building backend foundations for service-based platforms and startups.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nkwenui Nadine) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nkwenui Nadine) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nkwenui Nadine) 
 
----
-
-##  Tech Stack
-
-### Backend
-- Node.js
-- Express
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- WebSockets (Socket.IO)
-- Laravel PHP
-
-### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Vue.js
-
-### Tools & DevOps
-- Git & GitHub
-- Swagger (OpenAPI)
-- Postman
-- Docker (Learning)
-- Render / Vercel Deployment
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mombeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mombeh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mombeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mombeh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Food Recipe App
-
-An interactive web application that allows users to browse, search, and explore recipes with dynamic UI updates.
-
-Tech: JavaScript, HTML, CSS
- https://github.com/mombeh/food-recipe
-
-### Quiz Game
-
-Interactive browser-based quiz game with scoring logic and dynamic question handling.
-
-Tech: JavaScript
- https://github.com/mombeh/quiz-game
-
-###  Reselio – Business Management System
-
-Web-based system for managing small reseller operations, products, and business workflows.
-
-**Tech:** TypeScript, Full-Stack Architecture  
- https://github.com/mombeh/reselio
-
-
-##  What I Focus On
-
-- Designing scalable backend systems  
-- Writing clean, maintainable architecture  
-- Authentication & role-based access control  
-- Real-time features with WebSockets  
-- Solving real-world workflow problems  
-
----
-
-##  Open To Work
-
-I am currently open to:
-- Remote backend developer roles  
-- Full-stack startup opportunities  
-- Internship and junior developer positions  
-- Technical collaborations  
-
----
-
-##  Contact Me
-
- Email: nkwenuinadine31@gmail.com  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
