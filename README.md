@@ -1,19 +1,87 @@
-# 
+# My name is Nadine Mombeh
+**Backend & Full-Stack Developer**  
+Building scalable APIs, real-time systems, and structured backend architectures for startups and service-based platforms.
 
-#  About Me:
-## Hi there <br><br>
-##  Backend & Full-Stack Developer  <br>Building scalable APIs, real-time systems, and structured backend architectures.<br><br>I specialize in designing RESTful APIs, implementing authentication systems, and building backend foundations for service-based platforms and startups.<br><br>---<br><br>
-##  Tech Stack<br><br>
-### Backend<br>- Node.js<br>- Express<br>- PostgreSQL<br>- REST APIs<br>- JWT Authentication<br>- WebSockets (Socket.IO)<br>- Laravel PHP<br><br>
-### Frontend<br>- React<br>- Next.js<br>- TypeScript<br>- JavaScript<br>- Vue.js<br><br>
-### Tools & DevOps<br>- Git & GitHub<br>- Insomnia<br>- Render / Vercel Deployment<br><br>---<br><br>
-### Food Recipe App<br><br>An interactive web application that allows users to browse, search, and explore recipes with dynamic UI updates.<br><br>Tech: JavaScript, HTML, CSS<br> https://github.com/mombeh/food-recipe<br><br>
-### Quiz Game<br><br>Interactive browser-based quiz game with scoring logic and dynamic question handling.<br><br>Tech: JavaScript<br> https://github.com/mombeh/quiz-game-challenge<br><br>
-###  Reselio – Business Management System<br><br>Web-based system for managing small reseller operations, products, and business workflows.<br><br>**Tech:** TypeScript, Full-Stack Architecture  <br> https://github.com/mombeh/reselio<br><br><br>
-##  What I Focus On<br><br>- Designing scalable backend systems  <br>- Writing clean, maintainable architecture  <br>- Authentication & role-based access control  <br>- Solving real-world workflow problems  <br><br>---<br><br>
-##  Open To Work<br><br>I am currently open to:<br>- Remote backend developer roles  <br>- Full-stack startup opportunities  <br>- Internship and junior developer positions   <br><br>---<br><br>
-##  Contact Me<br><br> Email: nkwenuinadine31@gmail.com  <br><br>
-## Location<br><br>Yaounde, Cameroon<br>
+---
+
+##  Tech Stack
+
+**Backend**  
+- Node.js, Express  
+- PostgreSQL  
+- REST APIs, JWT Authentication  
+- WebSockets (Socket.IO)  
+- Laravel PHP  
+
+**Frontend**  
+- React, Next.js  
+- TypeScript, JavaScript  
+- Vue.js  
+
+**Tools & DevOps**  
+- Git & GitHub  
+- Insomnia  
+- Render / Vercel Deployment  
+
+---
+
+##  Featured Projects  
+
+### 1. **Booking-API**
+Backend service for scheduling appointments and managing providers, clients, and bookings.  
+**Tech:** Node.js, Express, PostgreSQL  
+**Repo:** [booking-api](https://github.com/mombeh/booking-api)  
+
+**Highlights:**  
+- Full backend with authentication and role-based access  
+- Prevents double-booking and handles notifications  
+- Validates inputs and secures sensitive data  
+
+---
+
+### 2. **Quiz Game Challenge**
+Browser-based interactive quiz game with scoring and dynamic question handling.  
+**Tech:** JavaScript  
+**Repo:** [quiz-game-challenge](https://github.com/mombeh/quiz-game-challenge)  
+
+**Highlights:**  
+- API consumption for diverse quiz questions  
+- Real-time scoring and game progress tracking  
+- Clean UI and engaging user experience  
+
+---
+
+### 3. **Reselio – Business Management System**
+Web-based system to manage small reseller operations, products, and business workflows.  
+**Tech:** TypeScript, Full-Stack Architecture  
+**Repo:** [reselio](https://github.com/mombeh/reselio)  
+
+**Highlights:**  
+- Fullstack project: frontend + backend + database  
+- CRUD operations with role-based access  
+- Optimized workflow for managing products and clients  
+
+---
+
+##  What I Focus On
+- Designing scalable backend systems  
+- Writing clean, maintainable architecture  
+- Authentication & role-based access control  
+- Solving real-world workflow problems  
+
+---
+
+##  Open To Work
+I am currently open to:  
+- Remote backend developer roles  
+- Full-stack startup opportunities  
+- Internship and junior developer positions  
+
+---
+
+##  Contact Me
+**Email:** nkwenuinadine31@gmail.com  
+**Location:** Yaounde, Cameroon
 
 
 ## 🌐 Socials:
