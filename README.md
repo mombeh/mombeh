@@ -1,4 +1,4 @@
-# Nkwenui Nadine
+# My name is Nadine Mombeh
 **Backend & Full-Stack Developer**  
 Building scalable APIs, real-time systems, and structured backend architectures for startups and service-based platforms.
 
